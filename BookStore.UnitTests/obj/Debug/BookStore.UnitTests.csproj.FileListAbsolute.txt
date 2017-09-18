@@ -17,7 +17,6 @@ c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookSto
 c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookStore.UnitTests\bin\Debug\BookStore.UnitTests.pdb
 c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookStore.UnitTests\bin\Debug\BookStore.Domain.dll
 c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookStore.UnitTests\bin\Debug\BookStore.WebUI.dll
-c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookStore.UnitTests\bin\Debug\Moq.dll
 c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookStore.UnitTests\bin\Debug\Ninject.dll

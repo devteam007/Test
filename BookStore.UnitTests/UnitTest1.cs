@@ -129,6 +129,38 @@ namespace BookStore.UnitTests
             // Assert
             Assert.AreEqual(genreToSelect, result);
         }
+
+        [TestMethod]
+        public void Generate_Category_Specific_Product_Count()
+        {
+            // Arrange
+            // - create the mock repository
+            Mock<IProductsRepository> mock = new Mock<IProductsRepository>();
+            mock.Setup(m => m.Products).Returns(new Product[] {
+                new Product {BookID = 1, Name = "P1", Genre = "Cat1"},
+                new Product {BookID = 2, Name = "P2", Genre = "Cat2"},
+                new Product {BookID = 3, Name = "P3", Genre = "Cat1"},
+                new Product {BookID = 4, Name = "P4", Genre = "Cat2"},
+                new Product {BookID = 5, Name = "P5", Genre = "Cat3"}
+            });
+            // Arrange - create a controller and make the page size 3 items
+            ProductController target = new ProductController(mock.Object);
+            target.PageSize = 3;
+            // Action - test the product counts for different categories
+            int res1 = ((ProductsListViewModel)target
+                .List("Cat1").Model).PagingInfo.TotalItems;
+            int res2 = ((ProductsListViewModel)target
+                .List("Cat2").Model).PagingInfo.TotalItems;
+            int res3 = ((ProductsListViewModel)target
+                .List("Cat3").Model).PagingInfo.TotalItems;
+            int resAll = ((ProductsListViewModel)target
+                .List(null).Model).PagingInfo.TotalItems;
+            // Assert
+            Assert.AreEqual(res1, 2);
+            Assert.AreEqual(res2, 2);
+            Assert.AreEqual(res3, 1);
+            Assert.AreEqual(resAll, 5);
+        }
     }
 }
  
