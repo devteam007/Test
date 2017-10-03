@@ -21,7 +21,7 @@ namespace BookStore.WebUI.Controllers
                 .Select(x => x.Genre)
                 .Distinct()
                 .OrderBy(x => x);
-            return PartialView(genres);
+            return PartialView("FlexMenu", genres);
         }
     }
 }

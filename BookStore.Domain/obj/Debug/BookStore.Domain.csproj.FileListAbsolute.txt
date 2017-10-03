@@ -21,3 +21,26 @@ c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookSto
 c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
 c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
 c:\users\mq2 em7445 w764\documents\visual studio 2015\Projects\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+C:\Users\Varun\Documents\GitHub\Test\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
